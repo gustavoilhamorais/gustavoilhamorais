@@ -2,51 +2,51 @@
   <a href="https://www.gustavoilhamorais.com.br"><img src="https://gustavoilhamorais.com.br/assets/img/Gustavo%20Ilha%20Morais''%20Banner.png" width="1000" alt="gustavoilhamorais Banner"></a>
 </div>
 
-<br>
+# Hi, I'm [Gustavo Ilha Morais](https://www.gustavoilhamorais.com.br) 👋
 
-<h3>Hi! I'm <a href="https://www.gustavoilhamorais.com.br">Gustavo Ilha Morais.</a> Welcome to my GitLab profile.</h>
+Welcome to my GitLab profile! I'm a passionate full stack developer with 13 years of coding experience. At 27, I've built a career around my love for technology and problem-solving.
 
-<p>Contact me if you need help hacking something.</p>
+## 💻 About Me
 
-<br> <br> <br> <br>
+- 🚀 Full stack developer specializing in Python and JavaScript
+- 🌟 Favorite libraries: Flask and React.js
+- 🐧 Linux enthusiast - both for servers and desktop environments
+- 🔧 Always excited to tackle new coding challenges
+- 🌈 Committed to open-source development and contributions
 
-<h1>Tech I use everyday</h1>
+## 🛠 Tech Stack
+
 <div align="center">
-  <div style="margin-right: 15px;">
-      <a href="https://www.javascript.com/">
-        <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/js.svg" alt="js" width="60" hight="50">
-      </a>
-      <a href="https://www.nodejs.org/">
-        <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/node.svg" alt="nodejs" width="60" hight="50">
-      </a>
-      <a href="https://www.reactjs.org">
-        <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/react.svg" alt="reactjs" width="60" hight="50">
-      </a>
-  </div>
-  <div style="margin-right: 15px;">
-      <a href="https://www.python.org">
-        <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/python.svg" alt="python" width="60" hight="50">
-      </a>
-      <a href="https://www.docker.com">
-        <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/docker.svg" alt="docker" width="60" hight="50">
-      </a>
-      <a href="https://github.com/torvalds/linux">
-        <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/linux.svg" alt="linux" width="60" hight="50">
-      </a>
-  </div>
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/js.svg" alt="JavaScript" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/node.svg" alt="Node.js" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/react.svg" alt="React.js" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/python.svg" alt="Python" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/docker.svg" alt="Docker" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/linux.svg" alt="Linux" width="60" height="50">
 </div>
 
+## 🌟 Highlights
 
-<br> <br> <br> <br>
+- 💼 13 years of coding experience
+- 🔓 Proficient in various programming languages and technologies
+- 🐳 Experienced in Docker and containerization
+- 🖥️ Linux server management expert
+- 🌐 Open-source contributor and advocate
 
+## 📫 Let's Connect!
 
-<h4 align="center">Links</h4>
 <p align="center">
-  <strong><a href="https://gustavoilhamorais.com">Website</a></strong> |
-  <strong><a href="https://github.com/gustavoilhamorais">GitHub</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/gustavo-ilha-morais-283b19161">LinkedIn</a></strong> |
-  <strong><a href="https://instagram.com/gustavoilhamorais">Instagram</a></strong> |
-  <strong><a href="https://twitter.com/ilhamorais">Twitter</a></strong>
+  <a href="https://gustavoilhamorais.com"><strong>Website</strong></a> |
+  <a href="https://github.com/gustavoilhamorais"><strong>GitHub</strong></a> |
+  <a href="https://www.linkedin.com/in/gustavo-ilha-morais-283b19161"><strong>LinkedIn</strong></a> |
+  <a href="https://instagram.com/gustavoilhamorais"><strong>Instagram</strong></a> |
+  <a href="https://twitter.com/ilhamorais"><strong>Twitter</strong></a>
 </p>
 
-<p align="center">❤ I've been coding, watching animes, and drinking coffee.</p>
+<p align="center">💡 Need help hacking something? Let's collaborate!</p>
+
+<p align="center">❤️ When I'm not coding, you'll find me with my wife.</p>
+
+---
+
+<p align="center"><i>Most of my commits are in private repositories, but I'm always looking for opportunities to contribute to open-source projects and build public solutions.</i></p>
