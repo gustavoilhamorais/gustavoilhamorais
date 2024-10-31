@@ -1,8 +1,4 @@
-<div align="center">
-  <a href="https://www.gustavoilhamorais.com.br"><img src="https://gustavoilhamorais.com.br/assets/img/Gustavo%20Ilha%20Morais''%20Banner.png" width="1000" alt="gustavoilhamorais Banner"></a>
-</div>
-
-# Hi, I'm [Gustavo Ilha Morais](https://www.gustavoilhamorais.com.br) 👋
+# Hi, I'm [Gustavo Ilha Morais](https://www.gustavoilhamorais.dev.br) 👋
 
 Welcome to my GitLab profile! I'm a passionate full stack developer with 13 years of coding experience. At 27, I've built a career around my love for technology and problem-solving.
 
