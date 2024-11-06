@@ -1,10 +1,10 @@
 # Hi, I'm [Gustavo Ilha Morais](https://www.gustavoilhamorais.dev.br) 👋
 
-Welcome to my GitLab profile! I'm a passionate full stack developer with 13 years of coding experience. At 27, I've built a career around my love for technology and problem-solving.
+Welcome to my GitLab profile! I'm a passionate full stack developer with 13 years of coding experience. At 28, I've built a career around my love for technology and problem-solving.
 
 ## 💻 About Me
 
-- 🚀 Full stack developer specializing in Python and JavaScript
+- 🚀 Full stack developer: Python and JavaScript specialist
 - 🌟 Favorite libraries: Flask and React.js
 - 🐧 Linux enthusiast - both for servers and desktop environments
 - 🔧 Always excited to tackle new coding challenges
@@ -32,7 +32,7 @@ Welcome to my GitLab profile! I'm a passionate full stack developer with 13 year
 ## 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://gustavoilhamorais.com"><strong>Website</strong></a> |
+  <a href="https://gustavoilhamorais.dev.br"><strong>Website</strong></a> |
   <a href="https://github.com/gustavoilhamorais"><strong>GitHub</strong></a> |
   <a href="https://www.linkedin.com/in/gustavo-ilha-morais-283b19161"><strong>LinkedIn</strong></a> |
   <a href="https://instagram.com/gustavoilhamorais"><strong>Instagram</strong></a> |
