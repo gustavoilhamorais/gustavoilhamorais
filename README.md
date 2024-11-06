@@ -33,7 +33,7 @@ Welcome to my GitLab profile! I'm a passionate full stack developer with 13 year
 
 <p align="center">
   <a href="https://gustavoilhamorais.dev.br"><strong>Website</strong></a> |
-  <a href="https://github.com/gustavoilhamorais"><strong>GitHub</strong></a> |
+  <a href="https://gitlab.com/gustavoilhamorais"><strong>GitLab</strong></a> |
   <a href="https://www.linkedin.com/in/gustavo-ilha-morais-283b19161"><strong>LinkedIn</strong></a> |
   <a href="https://instagram.com/gustavoilhamorais"><strong>Instagram</strong></a> |
   <a href="https://twitter.com/ilhamorais"><strong>Twitter</strong></a>
