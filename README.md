@@ -1,6 +1,6 @@
 # Hi, I'm [Gustavo Ilha Morais](https://www.gustavoilhamorais.dev.br) 👋
 
-Welcome to my GitLab profile! I'm a passionate full stack developer with 13 years of coding experience. At 28, I've built a career around my love for technology and problem-solving.
+Welcome to my GitLab profile! I'm a passionate software development specialist with 13 years of coding experience. At 28, I've built a career around my love for technology and problem-solving.
 
 ## 💻 About Me
 
