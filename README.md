@@ -1,24 +1,37 @@
 # Hi, I'm [Gustavo Ilha Morais](https://www.gustavoilhamorais.dev.br) 👋
 
-Welcome to my GitLab profile! I'm a passionate software development specialist with 13 years of coding experience. At 28, I've built a career around my love for technology and problem-solving.
+I'm a passionate software engineer with 13 years of coding experience—6 of which are professional, totaling over 10,000 hours of work. Throughout my career, I've written over 1 million lines of code, delivering software that has served **over 100,000 users** globally.  
+
+Currently, my code powers **thousands of users worldwide** across 5+ systems. I've been responsible for projects in virtually **every area of software development**, including:  
+- Front-end & Back-end  
+- Mobile Applications  
+- Physical & Digital Infrastructure  
+- Networks and Automation  
+- Artificial Intelligence and beyond.  
+
 
 ## 💻 About Me
 
-- 🚀 Full stack developer: Python and JavaScript specialist
+- 🚀 Favorite languages: Bash, Python and JavaScript
 - 🌟 Favorite libraries: Flask and React.js
 - 🐧 Linux enthusiast - both for servers and desktop environments
-- 🔧 Always excited to tackle new coding challenges
+- 🔧 Always excited to tackle new tech challenges
 - 🌈 Committed to open-source development and contributions
 
 ## 🛠 Tech Stack
 
 <div align="center">
+  <img src="https://www.svgrepo.com/show/361365/terminal-bash.svg" alt="Bash" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/linux.svg" alt="Linux" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/docker.svg" alt="Docker" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/394296/mysql.svg" alt="MySQL" width="60" height="50">
+  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/python.svg" alt="Python" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/473611/flask.svg" alt="Flask" width="60" height="50">
   <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/js.svg" alt="JavaScript" width="60" height="50">
   <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/node.svg" alt="Node.js" width="60" height="50">
   <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/react.svg" alt="React.js" width="60" height="50">
-  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/python.svg" alt="Python" width="60" height="50">
-  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/docker.svg" alt="Docker" width="60" height="50">
-  <img src="assets/fontawesome-free-6.2.0-web/svgs/brands/linux.svg" alt="Linux" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/306062/flutter.svg" alt="Flutter" width="60" height="50">
+  <img src="https://www.svgrepo.com/show/330257/dart.svg" alt="Dart" width="60" height="50">
 </div>
 
 ## 🌟 Highlights
@@ -35,8 +48,8 @@ Welcome to my GitLab profile! I'm a passionate software development specialist w
   <a href="https://gustavoilhamorais.dev.br"><strong>Website</strong></a> |
   <a href="https://gitlab.com/gustavoilhamorais"><strong>GitLab</strong></a> |
   <a href="https://www.linkedin.com/in/gustavo-ilha-morais-283b19161"><strong>LinkedIn</strong></a> |
-  <a href="https://instagram.com/gustavoilhamorais"><strong>Instagram</strong></a> |
-  <a href="https://twitter.com/ilhamorais"><strong>Twitter</strong></a>
+  <a href="https://www.instagram.com/gustavo.tar.xz"><strong>Instagram</strong></a> |
+  <a href="https://x.com/ilhamorais"><strong>Twitter</strong></a>
 </p>
 
 <p align="center">💡 Need help hacking something? Let's collaborate!</p>
